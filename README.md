@@ -68,7 +68,7 @@ Copy or download this repository:
 https://github.com/julietmulenga/ICS-Quadratic-Grader-Mulenga-Juliet.git
 
 
-Open index.html directly in your web browser.
+download and open the index.html file directly on your phone or web browser.
 
 Use the two sections on the page to:
 
