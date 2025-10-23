@@ -58,6 +58,9 @@ Score Range	Grade
 55–59	C+
 50–54	C
 0–49	D
+
+
+
 💻 How to Run
 
 Copy or download this repository:
@@ -77,12 +80,16 @@ No installation or internet connection is required.
 
 🧪 Test Cases
 Quadratic Solver
-a	b	c	Expected Output
-1	-3	2	D = 1 → Two distinct real roots (x₁=2, x₂=1)
-1	2	1	D = 0 → One real repeated root (x = -1)
-1	1	2	D < 0 → Two complex roots
+a	 b	c 	Expected Output
+1	-3	2 	D = 1 → Two distinct real roots (x₁=2, x₂=1)
+1	 2	1 	D = 0 → One real repeated root (x = -1)
+1  1 	2	  D < 0 → Two complex roots
+
+
 Grading System
-Score	Expected Grade
+
+Score	Expected Grade:
+
 100	A+
 85	A+
 75	A
